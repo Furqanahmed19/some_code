@@ -5,5 +5,3 @@ echo "$NUMBER"
 echo "This was added"
 NUMBER=$(($NUMBERONE * $NUMBERTWO))
 echo "$NUMBER"
-NUMBER=$(($NUMBERONE / $NUMBERTWO))
-echo "$NUMBER"
